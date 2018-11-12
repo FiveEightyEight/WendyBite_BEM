@@ -23,8 +23,11 @@ nav {
 hr {
     border: 0;
     border-top: 1px solid gray;
-    padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.bottom-hr {
+    margin-top: 30px;
 }
 .baby-div {
     display: inline-block;
@@ -63,7 +66,7 @@ a:active {
     border: 1px solid gray;
     padding: 4px;
     float: right;
-    margin: 30px;
+    margin: 20px;
     
 }
 
