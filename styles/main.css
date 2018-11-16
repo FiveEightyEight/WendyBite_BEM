@@ -1,0 +1,114 @@
+body{
+    /* background-color: rgb(56, 53, 53); */
+    background-color: #444444;
+    color: white;
+    margin: 0px;
+}
+
+.content-main {
+    width: 720px;
+    border: 5px solid gray;
+    justify-content: center;
+    /* margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 35px;
+    margin-bottom: 35px; */
+    margin: 0 auto;
+    margin-top: 35px;
+    /* overflow: hidden; */
+    padding: 3%;
+    text-align: justify;
+}
+
+nav {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid gray;
+    padding-bottom: 5px;
+}
+
+.bottom-hr {
+    margin-top: 30px;
+}
+.baby-div {
+    display: inline-block;
+    border-left: 2px solid gray;
+    height: 12px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+a {
+    
+}
+
+a:link {
+    color: #66CD9B;
+}
+
+a:visited {
+    
+    color: #66CD9B;
+    text-decoration: none;
+}
+
+a:hover {
+    color: turquoise;
+}
+
+a:active {
+    color: plum;
+}
+
+.content-top {
+    display: inline;
+}
+
+.tyson-img {
+    border: 1px solid gray;
+    padding: 6px;
+    float: right;
+    /* margin: 20px; */
+    margin-left: 20px;
+    margin-bottom: 15px;
+    
+}
+
+.content-bottom {
+   text-align-last: auto;
+}
+
+span {
+    color: aliceblue;
+    /* font-family: Times, serif; */
+    font-family: Medium Italic;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.main-head-text {
+    font-size: 40px;
+    font-family: Medium Italic;
+    font-style: italic;
+    text-align: center;
+}
+.about-me-head-text {
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.links {
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
+
+footer {
+    padding: 25px;
+    text-align: center;
+}
